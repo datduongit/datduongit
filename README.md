@@ -22,7 +22,6 @@
   </h2>
   <h1>
     I'm Edric D.
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="300"/>
 </div>
@@ -30,6 +29,7 @@
 ### 👨‍💻 About Me :
 
 I am Mobile Engineer from Vietnam
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Vietnam-Animated.gif" width="30px"/>
 
 - 💻 I'm working as Flutter and IOS Engineer at DATX
 - 📝 Writing some useful content on Medium
