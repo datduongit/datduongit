@@ -16,10 +16,10 @@
   
   <img src="https://komarev.com/ghpvc/?username=lapin7771n&style=flat-square&color=blue" alt=""/>
   
-  <h1>
+  <h2>
     Hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </h2>
   <h1>
     I'm Edric D.
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -53,6 +53,6 @@ I am Mobile Engineer from Vietnam
 ---
 
 ### 🔥 My Stats :
-[![GitHub Streak](*)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=datduongit&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](*)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datduongit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
