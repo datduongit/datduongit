@@ -31,7 +31,7 @@
 I am Mobile Engineer from Vietnam
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Vietnam-Animated.gif" width="30px"/>
 
-- 💻 I'm working as Flutter and IOS Engineer at DATX
+- 💻 I'm working as IOS and Flutter Engineer at HOME
 - 📝 Writing some useful content on Medium
 ---
 
